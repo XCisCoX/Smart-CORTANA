@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCortana", "SmartCortana.csproj", "{CC813884-5D90-4044-9571-8FB7C54D9612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC813884-5D90-4044-9571-8FB7C54D9612}.Debug|x86.ActiveCfg = Debug|x86
+		{CC813884-5D90-4044-9571-8FB7C54D9612}.Debug|x86.Build.0 = Debug|x86
+		{CC813884-5D90-4044-9571-8FB7C54D9612}.Release|x86.ActiveCfg = Release|x86
+		{CC813884-5D90-4044-9571-8FB7C54D9612}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD2E3D2E-27E4-4957-A0E3-12CF1F192D1C}
+	EndGlobalSection
+EndGlobal
