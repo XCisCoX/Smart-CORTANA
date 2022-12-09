@@ -1,0 +1,17 @@
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\bin\Debug\SmartCortana.exe.config
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\bin\Debug\SmartCortana.exe
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\bin\Debug\SmartCortana.pdb
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\bin\Debug\Emgu.CV.xml
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\bin\Debug\Emgu.CV.UI.xml
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\bin\Debug\Emgu.Util.xml
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.csproj.AssemblyReference.cache
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.frmAddPerson.resources
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.frmCortana.resources
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.mainform.resources
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.Properties.Resources.resources
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.csproj.GenerateResource.cache
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.csproj.CoreCompileInputs.cache
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.csproj.CopyComplete
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.exe
+C:\Users\cisco\Desktop\Smart CORTANA\Smart CORTANA\obj\x86\Debug\SmartCortana.pdb

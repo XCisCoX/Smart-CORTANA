@@ -1,11 +1,4 @@
 ﻿
-//Multiple face detection and recognition in real time
-//Using EmguCV cross platform .Net wrapper to the Intel OpenCV image processing library for C#.Net
-//Writed by Sergio Andrés Guitérrez Rojas
-//"Serg3ant" for the delveloper comunity
-// Sergiogut1805@hotmail.com
-//Regards from Bucaramanga-Colombia ;)
-
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -42,9 +35,9 @@ namespace SmartCortana
 
         void LogAdd(string add,bool isCortana=true) {
             if(isCortana)
-            rtbLog.AppendText("["+DateTime.Now.ToShortDateString()+"]"+"Cortana"+":"+add+"\n");
+            rtbLog.AppendText("["+DateTime.Now.ToLongTimeString()+"] "+"Cortana"+": "+add+"\n");
             else
-            rtbLog.AppendText("[" + DateTime.Now.ToShortDateString() + "]" + currentuser+ ":" + add + "\n");
+            rtbLog.AppendText("[" + DateTime.Now.ToLongTimeString() + "] " + currentuser+ ": " + add + "\n");
         }
         public mainform()
         {
